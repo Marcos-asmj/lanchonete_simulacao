@@ -1,0 +1,40 @@
+{
+    "clientes":[
+        {
+            "nome": "Jim",
+            "fotos": [
+                "C:/Users/Marcos/Documents/labs/TrabIHM/faces/Jim1.jpg",
+                "C:/Users/Marcos/Documents/labs/TrabIHM/faces/Jim2.jpg"            
+            ],
+            "pressao": 1,
+            "colesterol": 0
+        },
+        {
+            "nome": "Kevin",
+            "fotos": [
+                "C:/Users/Marcos/Documents/labs/TrabIHM/faces/Kevin1.jpg",
+                "C:/Users/Marcos/Documents/labs/TrabIHM/faces/Kevin2.jpg"                
+            ],
+            "pressao": 1,
+            "colesterol": 1
+        },
+        {
+            "nome": "Michael",
+            "fotos": [
+                "C:/Users/Marcos/Documents/labs/TrabIHM/faces/Michael1.jpg",
+                "C:/Users/Marcos/Documents/labs/TrabIHM/faces/Michael2.jpg"
+            ],
+            "pressao": 0,
+            "colesterol": 1
+        },
+        {
+            "nome": "Pam",
+            "fotos": [
+                "C:/Users/Marcos/Documents/labs/TrabIHM/faces/Pam1.jpg",
+                "C:/Users/Marcos/Documents/labs/TrabIHM/faces/Pam2.jpg"
+            ],
+            "pressao": 0,
+            "colesterol": 0
+        }
+    ]
+}
